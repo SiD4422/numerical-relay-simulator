@@ -227,6 +227,5 @@ if run:
     ax.plot(t, Ic_ar, label="Ic")
     ax.legend()
     ax.grid(True)
->>>>>>> 9ec691a (Initial commit)
     st.pyplot(fig)
 
